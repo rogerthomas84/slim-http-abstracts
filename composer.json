@@ -1,0 +1,26 @@
+{
+  "name": "rogerthomas84/slim-http-abstracts",
+  "description": "HTTP and middleware helpers for Slim Framework 4.0",
+  "keywords": ["http", "middleware", "slim framework", "slim", "framework", "4.0", "4.x", "php"],
+  "homepage": "https://github.com/rogerthomas84/slim-http-abstracts",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Roger Thomas",
+      "email": "rogere84@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "slim/slim": "^4.0",
+    "rogerthomas84/skinny": "^2.0",
+    "slim/psr7": "^1.0",
+    "php-di/slim-bridge": "^3.0",
+    "slim/php-view": "^2.2",
+    "ext-mbstring": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-0": { "SlimHttpAbstracts": "src" }
+  }
+}
