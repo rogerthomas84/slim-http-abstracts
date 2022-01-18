@@ -14,7 +14,7 @@
     "php": "^7.1",
     "slim/slim": "^4.0",
     "slim/php-view": "^2.2",
-    "rogerthomas84/skinny": ">=2.0",
+    "rogerthomas84/skinny": "*",
     "slim/psr7": "^0.5.0",
     "php-di/slim-bridge": "^3.0",
     "ext-mbstring": "*",
