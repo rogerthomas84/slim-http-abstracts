@@ -3,7 +3,7 @@
   "description": "HTTP and middleware helpers for Slim Framework 4.0",
   "keywords": ["http", "middleware", "slim framework", "slim", "framework", "4.0", "4.x", "php"],
   "homepage": "https://github.com/rogerthomas84/slim-http-abstracts",
-  "license": "proprietary",
+  "license": "mit",
   "authors": [
     {
       "name": "Roger Thomas",
