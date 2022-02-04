@@ -11,7 +11,7 @@
     }
   ],
   "require": {
-    "php": "^7.1",
+    "php": ">=7.1 || ^8.0",
     "slim/slim": "^4.0",
     "slim/php-view": "^2.2",
     "rogerthomas84/skinny": "*",
